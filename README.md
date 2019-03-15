@@ -2,23 +2,19 @@
 A basic Javascript workshop that will walk through setting variables, conditionals, listening for events, and altering values. Join this one-hour workshop to learn how to learn how to build a magic 8 balls.
 
 # Getting Started
-#### :rabbit: Option 1 (easy peasy)
-1. [Clone the repository](https://help.github.com/articles/cloning-a-repository/)
-2. Open up `index.js` and start with step #1. Use the Word Bank below if you need help. Check your answers by navigating to the `index_solution.js` in this github repository.
+### Getting Started
+1. Visit the [project on CodePen](https://codepen.io/eyvettesou/pen/ZPrdpq)
+    * **Mentors**: write bit.ly on board - http://bit.ly/build-magic8ball
+2. Click on the 'Fork' button at the top of the page
+3. Either login, sign up for an account, or click the 'Save as Anonymous' link at the bottom of the page
+4. Save your URL somewhere! (this will be yours to share)
+5. _(optional)_ We recommended changing the view for a better experience, by clicking on `Change View` and selecting the first option under `Editor Layout`
 
-#### :rabbit: Option 2 (if you don't have github setup)
-1. Create a `magic8ball` folder on your Desktop
-2. Navigate into `magic8ball` folder
-3. Create three files:
-    * `index.html`
-    * `index.js`
-    * `main.css`
-
-    <img src="./assets/setup_option2.png">
-4. In github, navigate to the `index.html` file and copy and paste the code into your newly created `index.html` file.
-5. In github, navigate to the `main.css` file and copy and paste the code into your newly created `main.css` file.
-6. In github, navigate to the `index.js` file and copy and paste the code into your newly created `index.js` file
-7. Open up `index.js` and start with step #1. Use the Word Bank below if you need help. Check your answers by navigating to the `index_solution.js` in this github repository.
+## :star2: Mentors
+* [Mentor Instruction Guide](https://docs.google.com/document/d/1MFMbUKkLyfqdXah7_WpNwkpXCjX-cWD4LhEfTzYyxHs/edit)
+* [Handout during instructions](https://docs.google.com/document/d/1s70n5hHYJRsRjYVQvQWzUhuZNLH1PCL1ET3cXeLs2IY/edit#heading=h.ne3eomb90u1v)
+* [Solution on CodePen](https://codepen.io/eyvettesou/pen/wOyLpP)
+  * **Mentors:** write bit.ly on board - http://bit.ly/build-magic8ball-solution
 
 # Dictionary 
 ```javascript
